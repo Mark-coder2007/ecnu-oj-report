@@ -1,0 +1,13 @@
+{
+  "contest": "<contest-id>",
+  "username": "<your-oj-username>",
+  "report": {
+    "templateDocx": "<path-to-template.docx>",
+    "outputDocx": "out/report.docx",
+    "problemNumberOffset": 1000,
+    "pilotIds": [
+      "1001",
+      "1002"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Public showcase repo: keep examples clean if someone experiments locally.
+config.json
+*-auth.json
+ecnu-auth.json
+out/
+data/
+node_modules/
+*.docx
+*.zip
+__pycache__/
+*.pyc
