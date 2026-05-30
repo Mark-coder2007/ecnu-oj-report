@@ -55,10 +55,10 @@
 
 这个公开仓库现在只保留：
 
-- [README.md](/C:/Users/maoji/Desktop/资料/大一下/程序设计实验报告/ecnu-oj-report/README.md)
-- [INSTALL.md](/C:/Users/maoji/Desktop/资料/大一下/程序设计实验报告/ecnu-oj-report/INSTALL.md)
-- [WORKFLOW.md](/C:/Users/maoji/Desktop/资料/大一下/程序设计实验报告/ecnu-oj-report/WORKFLOW.md)
-- [examples](/C:/Users/maoji/Desktop/资料/大一下/程序设计实验报告/ecnu-oj-report/examples)
+- [README.md](README.md)
+- [INSTALL.md](INSTALL.md)
+- [WORKFLOW.md](WORKFLOW.md)
+- [examples](examples/)
 
 ## 示例目录
 

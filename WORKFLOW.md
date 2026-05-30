@@ -28,4 +28,4 @@
 
 ## 示例结构
 
-参见 [examples](/C:/Users/maoji/Desktop/资料/大一下/程序设计实验报告/ecnu-oj-report/examples)。
+参见 [examples](examples/)。

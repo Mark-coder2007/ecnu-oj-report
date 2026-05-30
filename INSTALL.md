@@ -29,9 +29,9 @@
 
 建议按这个顺序阅读：
 
-1. [README.md](/C:/Users/maoji/Desktop/资料/大一下/程序设计实验报告/ecnu-oj-report/README.md)
-2. [WORKFLOW.md](/C:/Users/maoji/Desktop/资料/大一下/程序设计实验报告/ecnu-oj-report/WORKFLOW.md)
-3. [examples](/C:/Users/maoji/Desktop/资料/大一下/程序设计实验报告/ecnu-oj-report/examples)
+1. [README.md](README.md)
+2. [WORKFLOW.md](WORKFLOW.md)
+3. [examples](examples/)
 
 ## 如果你是仓库拥有者
 
